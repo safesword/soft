@@ -26,3 +26,12 @@
   
 ![Alt text](https://github.com/safesword/soft/blob/main/picture/3.png)
 
+4.ContextMenuManager
+
+  右键菜单管理器，功能比360、腾讯管家的更详细。升级Windows 10之后，右键明显繁杂的多，清理一下邮件选项更加方便使用。
+  
+  例如：关闭发送到的大部分选项，关闭winRAR的大部分选项，删除部分应用的右键......
+
+  下载地址：https://github.com/BluePointLilac/ContextMenuManager/releases
+  
+  ![Alt text](https://github.com/safesword/soft/blob/main/picture/4.png)
